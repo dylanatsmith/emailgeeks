@@ -88,7 +88,7 @@ You can see past versions of the document — along with dates and descriptions 
 
 Contributions and discussion about this document are very welcome. You can participate in a few different ways:
 
-* By privately contacting a member of the admin team* By privately contacting a member of the admin team
+* By privately contacting a member of the admin team
 * By opening an issue or a pull request in this repository
 * By raising a discussion in the Slack community itself
 
