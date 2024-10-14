@@ -63,6 +63,9 @@ Don’t post unconstructive criticism
   * Vendors are strongly encouraged to not use our platform (channels or DMs) for customer communication or support
   * The admin team will identify needs for new channels as conversation around topics becomes overwhelming in existing channels; this is the only way new channels will be created
   * Existing #vendor- channels will be removed as they become insufficiently active
+* Don’t ask about cold email (spam)
+  * This is a permissed-based marketing group
+  * Questions about, promotion for, and job relating to cold email will be removed — but probably not before other members let you know how they feel about it
 
 ## Anonymous questions
 
